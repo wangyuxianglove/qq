@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+    var height:Int64?
     var name:String?
     var age:String?
 
