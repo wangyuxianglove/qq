@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var name:String?
+    var age:String?
 
     override func viewDidLoad() {
         super.viewDidLoad()
